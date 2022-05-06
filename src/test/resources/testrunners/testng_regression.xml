@@ -29,12 +29,12 @@
 			<class name="com.qa.opencart.tests.RegistrationPageTest" />
 		</classes>
 	</test> -->
-
-	<!-- <test name="Open Cart ProductInfo Page Test">
+	
+	<test name="Open Cart ProductInfo Page Test">
 		<classes>
 			<class name="com.qa.opencart.tests.ProductInfoPageTest" />
 		</classes>
-	</test> -->
+	</test>
 
 
 </suite>
