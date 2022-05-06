@@ -62,7 +62,7 @@ public class AccountsPageTest extends BaseTest{
 			{"Macbook","MacBook Pro"},
 			{"iMac", "iMac"},
 			{"Samsung", "Samsung SyncMaster 941BW"},
-			{"Apple","Apple"},
+			{"Apple","Search - Apple"},
 		};
 	}
 	
